@@ -5,9 +5,18 @@
     <type fullname="Trash.ItemMaster" preserve="all" />
     <type fullname="Trash.MasterDatabase" preserve="all" />
     <type fullname="Trash.RandomEventMaster" preserve="all" />
+    <type fullname="Trash.ScheduledEvents" preserve="all" />
     <type fullname="Trash.ShopEventMaster" preserve="all" />
+    <type fullname="Trash.SmithEventMaster" preserve="all" />
     <type fullname="Trash.WeaponMaster" preserve="all" />
-    <type fullname="Trash.EventContentMaster" preserve="nothing" serialized="true" />
+    <type fullname="Trash.BattleEventContentMaster" preserve="nothing" serialized="true" />
+    <type fullname="Trash.BattleEventContentMaster/LotteryGroup" preserve="nothing" serialized="true" />
+    <type fullname="Trash.BattleEventContentMaster/MobMaterial" preserve="nothing" serialized="true" />
+    <type fullname="Trash.Localization.LocalizableStringEntry" preserve="nothing" serialized="true" />
+    <type fullname="Trash.RandomEventContentMaster" preserve="nothing" serialized="true" />
+    <type fullname="Trash.RandomEventOptionMaster" preserve="nothing" serialized="true" />
+    <type fullname="Trash.ScheduledEventEntry" preserve="nothing" serialized="true" />
+    <type fullname="Trash.WeightedItemEntry" preserve="nothing" serialized="true" />
   </assembly>
   <assembly fullname="Unity.Addressables, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" preserve="all">
     <type fullname="UnityEngine.AddressableAssets.Addressables" preserve="all" />
@@ -22,6 +31,7 @@
   <assembly fullname="UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="UnityEngine.Object" preserve="all" />
     <type fullname="UnityEngine.Sprite" preserve="all" />
+    <type fullname="UnityEngine.TextAsset" preserve="all" />
     <type fullname="UnityEngine.Texture2D" preserve="all" />
   </assembly>
 </linker>
