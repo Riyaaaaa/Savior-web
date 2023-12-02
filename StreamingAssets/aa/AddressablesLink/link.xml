@@ -2,9 +2,12 @@
   <assembly fullname="Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="Trash.ArtifactMaster" preserve="all" />
     <type fullname="Trash.BattleEventMaster" preserve="all" />
+    <type fullname="Trash.BundledEventMaster" preserve="all" />
     <type fullname="Trash.ItemMaster" preserve="all" />
     <type fullname="Trash.MasterDatabase" preserve="all" />
     <type fullname="Trash.RandomEventMaster" preserve="all" />
+    <type fullname="Trash.RestEventMaster" preserve="all" />
+    <type fullname="Trash.ScenarioEventMaster" preserve="all" />
     <type fullname="Trash.ScheduledEvents" preserve="all" />
     <type fullname="Trash.ShopEventMaster" preserve="all" />
     <type fullname="Trash.SmithEventMaster" preserve="all" />
@@ -15,8 +18,9 @@
     <type fullname="Trash.Localization.LocalizableStringEntry" preserve="nothing" serialized="true" />
     <type fullname="Trash.RandomEventContentMaster" preserve="nothing" serialized="true" />
     <type fullname="Trash.RandomEventOptionMaster" preserve="nothing" serialized="true" />
+    <type fullname="Trash.ScenarioEventMaster/ScenarioContent" preserve="nothing" serialized="true" />
+    <type fullname="Trash.ScenarioEventMaster/ScenarioOptionContent" preserve="nothing" serialized="true" />
     <type fullname="Trash.ScheduledEventEntry" preserve="nothing" serialized="true" />
-    <type fullname="Trash.WeightedItemEntry" preserve="nothing" serialized="true" />
   </assembly>
   <assembly fullname="Unity.Addressables, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" preserve="all">
     <type fullname="UnityEngine.AddressableAssets.Addressables" preserve="all" />
