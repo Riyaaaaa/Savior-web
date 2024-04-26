@@ -2,13 +2,12 @@
   <assembly fullname="Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="Trash.BattleEventMaster" preserve="all" />
     <type fullname="Trash.BattleFlavor" preserve="all" />
-    <type fullname="Trash.BundledEventMaster" preserve="all" />
     <type fullname="Trash.EnemyMaster" preserve="all" />
     <type fullname="Trash.EquipmentIcon" preserve="all" />
+    <type fullname="Trash.GeneralMaster" preserve="all" />
     <type fullname="Trash.ItemMaster" preserve="all" />
     <type fullname="Trash.LocationMaster" preserve="all" />
     <type fullname="Trash.LotteryGroup" preserve="all" />
-    <type fullname="Trash.MasterDatabase" preserve="all" />
     <type fullname="Trash.MobMaterial" preserve="all" />
     <type fullname="Trash.PropMaster" preserve="all" />
     <type fullname="Trash.RandomEventMaster" preserve="all" />
@@ -44,6 +43,7 @@
   </assembly>
   <assembly fullname="UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="UnityEngine.GameObject" preserve="all" />
+    <type fullname="UnityEngine.MonoBehaviour" preserve="all" />
     <type fullname="UnityEngine.Object" preserve="all" />
     <type fullname="UnityEngine.RectTransform" preserve="all" />
     <type fullname="UnityEngine.Sprite" preserve="all" />
