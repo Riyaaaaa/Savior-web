@@ -9,6 +9,7 @@
     <type fullname="Trash.LocationMaster" preserve="all" />
     <type fullname="Trash.LotteryGroup" preserve="all" />
     <type fullname="Trash.MobMaterial" preserve="all" />
+    <type fullname="Trash.MultiWaveBattleEventMaster" preserve="all" />
     <type fullname="Trash.PropMaster" preserve="all" />
     <type fullname="Trash.RandomEventMaster" preserve="all" />
     <type fullname="Trash.RestEventMaster" preserve="all" />
@@ -18,14 +19,18 @@
     <type fullname="Trash.Skill" preserve="all" />
     <type fullname="Trash.SmithEventMaster" preserve="all" />
     <type fullname="Trash.WeaponMaster" preserve="all" />
+    <type fullname="Trash.BattleAbilityEfficacy" preserve="nothing" serialized="true" />
     <type fullname="Trash.BattleAbilityMaster" preserve="nothing" serialized="true" />
     <type fullname="Trash.BattleCondition" preserve="nothing" serialized="true" />
     <type fullname="Trash.BattleConditionSet" preserve="nothing" serialized="true" />
     <type fullname="Trash.BattleEventContentMaster" preserve="nothing" serialized="true" />
+    <type fullname="Trash.ExecuteEfficiencyCommand" preserve="nothing" serialized="true" />
+    <type fullname="Trash.JumpToLabelCommand" preserve="nothing" serialized="true" />
     <type fullname="Trash.Localization.LocalizableStringEntry" preserve="nothing" serialized="true" />
+    <type fullname="Trash.NovelTextCommand" preserve="nothing" serialized="true" />
+    <type fullname="Trash.NovelTextWithChoiceCommand" preserve="nothing" serialized="true" />
     <type fullname="Trash.RandomEventContentMaster" preserve="nothing" serialized="true" />
     <type fullname="Trash.RandomEventContentMaster/Efficacy" preserve="nothing" serialized="true" />
-    <type fullname="Trash.RandomEventOptionMaster" preserve="nothing" serialized="true" />
     <type fullname="Trash.ScenarioEventMaster/ScenarioContent" preserve="nothing" serialized="true" />
     <type fullname="Trash.ScenarioEventMaster/ScenarioOptionContent" preserve="nothing" serialized="true" />
     <type fullname="Trash.ScheduledEventEntry" preserve="nothing" serialized="true" />
