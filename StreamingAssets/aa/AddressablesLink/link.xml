@@ -2,6 +2,8 @@
   <assembly fullname="Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="Trash.BattleEventMaster" preserve="all" />
     <type fullname="Trash.BattleFlavor" preserve="all" />
+    <type fullname="Trash.EnchantEventMaster" preserve="all" />
+    <type fullname="Trash.EnchantMaster" preserve="all" />
     <type fullname="Trash.EnemyMaster" preserve="all" />
     <type fullname="Trash.EquipmentIcon" preserve="all" />
     <type fullname="Trash.GeneralMaster" preserve="all" />
@@ -17,18 +19,19 @@
     <type fullname="Trash.ScheduledEvents" preserve="all" />
     <type fullname="Trash.ShopEventMaster" preserve="all" />
     <type fullname="Trash.Skill" preserve="all" />
-    <type fullname="Trash.SmithEventMaster" preserve="all" />
     <type fullname="Trash.WeaponMaster" preserve="all" />
     <type fullname="Trash.BattleAbilityEfficacy" preserve="nothing" serialized="true" />
     <type fullname="Trash.BattleAbilityMaster" preserve="nothing" serialized="true" />
     <type fullname="Trash.BattleCondition" preserve="nothing" serialized="true" />
     <type fullname="Trash.BattleConditionSet" preserve="nothing" serialized="true" />
     <type fullname="Trash.BattleEventContentMaster" preserve="nothing" serialized="true" />
+    <type fullname="Trash.Condition" preserve="nothing" serialized="true" />
     <type fullname="Trash.ExecuteEfficiencyCommand" preserve="nothing" serialized="true" />
     <type fullname="Trash.JumpToLabelCommand" preserve="nothing" serialized="true" />
     <type fullname="Trash.Localization.LocalizableStringEntry" preserve="nothing" serialized="true" />
     <type fullname="Trash.NovelTextCommand" preserve="nothing" serialized="true" />
     <type fullname="Trash.NovelTextWithChoiceCommand" preserve="nothing" serialized="true" />
+    <type fullname="Trash.QuitCommand" preserve="nothing" serialized="true" />
     <type fullname="Trash.RandomEventContentMaster" preserve="nothing" serialized="true" />
     <type fullname="Trash.RandomEventContentMaster/Efficacy" preserve="nothing" serialized="true" />
     <type fullname="Trash.ScenarioEventMaster/ScenarioContent" preserve="nothing" serialized="true" />
@@ -43,7 +46,6 @@
     <type fullname="UnityEngine.ResourceManagement.ResourceProviders.AssetBundleProvider" preserve="all" />
     <type fullname="UnityEngine.ResourceManagement.ResourceProviders.BundledAssetProvider" preserve="all" />
     <type fullname="UnityEngine.ResourceManagement.ResourceProviders.InstanceProvider" preserve="all" />
-    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.LegacyResourcesProvider" preserve="all" />
     <type fullname="UnityEngine.ResourceManagement.ResourceProviders.SceneProvider" preserve="all" />
   </assembly>
   <assembly fullname="UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
